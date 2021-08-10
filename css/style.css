@@ -355,7 +355,9 @@ text-decoration: underline;
        margin: auto;
       width: 50%;
     }
-    
+    #history-img-bagnath {
+    width: 75%;
+}
     
 }
 
